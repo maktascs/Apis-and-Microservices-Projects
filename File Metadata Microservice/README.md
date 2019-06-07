@@ -1,5 +1,5 @@
 
-# API Project: File Metadata Microservice for freeCodeCamp
+# API Project: File Metadata Microservice
 
 ###    User stories:
 1. I can submit a form that includes a file upload.
